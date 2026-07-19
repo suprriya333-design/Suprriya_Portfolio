@@ -1,6 +1,10 @@
-# Sprint 5 - Part 2
+# Sprint 5 - Part 5
 
-Contents
-- SVG favicon
-- Social sharing preview template
-- Progressive Web App manifest
+Final delivery package.
+
+Includes:
+- Final handoff guide
+- Git ignore template
+- Basic build script
+
+This completes the modular portfolio series.
