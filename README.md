@@ -1,10 +1,16 @@
-Sprint 1 - Part 9
+# Case Study Template
 
-Files included:
-- footer.html
-- footer.css
-- utilities.css
+Recommended order:
 
-Next:
-Sprint 1 - Part 10
-Final integration package with complete project structure.
+1. Hero
+2. Problem
+3. Research
+4. Personas
+5. Journey Map
+6. Competitive Analysis
+7. Solution
+8. Design Iterations
+9. Impact Metrics
+10. Gallery
+11. Learnings
+12. Next Project Navigation

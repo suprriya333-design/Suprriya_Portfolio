@@ -1,0 +1,1 @@
+document.addEventListener('scroll',()=>{const h=document.documentElement;const p=(h.scrollTop/(h.scrollHeight-h.clientHeight))*100;let b=document.getElementById('progress');if(b)b.style.width=p+'%';});
