@@ -1,14 +1,21 @@
-# Sprint 1
+# Fonts
 
-Included:
-- Landing page scaffold
-- Hero section
-- Featured work grid
-- Basic interactions
-- Modular folder structure
+Download and place these fonts here:
 
-Next sprint:
-- Timeline
-- Case studies
-- Rich micro-interactions
-- Responsive navigation
+## Primary
+- Inter Variable
+  Rename to:
+  - Inter-Variable.ttf
+
+## Secondary
+- Bricolage Grotesque Variable
+  Rename to:
+  - BricolageGrotesque-Variable.ttf
+
+Folder structure:
+
+assets/
+└── fonts/
+    ├── Inter-Variable.ttf
+    ├── BricolageGrotesque-Variable.ttf
+    └── README.md
