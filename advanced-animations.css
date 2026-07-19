@@ -1,0 +1,28 @@
+
+.reveal{
+  opacity:0;
+  transform:translateY(40px);
+  transition:opacity .8s ease, transform .8s ease;
+}
+.reveal.visible{
+  opacity:1;
+  transform:translateY(0);
+}
+
+.stagger>*{
+  opacity:0;
+  transform:translateY(24px);
+}
+
+.magnetic{
+  transition:transform .2s ease;
+}
+
+.tilt-card{
+  transform-style:preserve-3d;
+  transition:transform .25s ease;
+}
+
+.glow-hover:hover{
+  box-shadow:0 0 40px rgba(91,124,255,.35);
+}
