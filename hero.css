@@ -1,0 +1,5 @@
+.eyebrow{letter-spacing:.2em;text-transform:uppercase;color:var(--primary);margin-bottom:16px}
+.hero h1{max-width:900px;margin-bottom:24px}
+.hero p{max-width:700px}
+.hero-actions{display:flex;gap:16px;margin-top:32px}
+.button.secondary{background:transparent;border:1px solid var(--primary);color:var(--text)}
