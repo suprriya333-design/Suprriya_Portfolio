@@ -1,0 +1,25 @@
+
+.theme-toggle{
+display:flex;
+align-items:center;
+justify-content:center;
+width:48px;
+height:48px;
+border-radius:50%;
+cursor:pointer;
+transition:transform .25s ease;
+}
+.theme-toggle:hover{transform:rotate(180deg);}
+
+.parallax{
+will-change:transform;
+transition:transform .1s linear;
+}
+
+.noise-overlay{
+position:fixed;
+inset:0;
+pointer-events:none;
+opacity:.05;
+background-image:url('../assets/textures/noise.svg');
+}
