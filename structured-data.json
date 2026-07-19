@@ -1,0 +1,11 @@
+{
+  "@context":"https://schema.org",
+  "@type":"Person",
+  "name":"Your Name",
+  "jobTitle":"Product Manager",
+  "url":"https://yourportfolio.com",
+  "sameAs":[
+    "https://linkedin.com/in/yourprofile",
+    "https://github.com/yourprofile"
+  ]
+}
