@@ -1,0 +1,9 @@
+{
+  "name":"Portfolio",
+  "short_name":"Portfolio",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#0F172A",
+  "theme_color":"#5B7CFF",
+  "icons":[{"src":"assets/icons/favicon.svg","sizes":"64x64","type":"image/svg+xml"}]
+}

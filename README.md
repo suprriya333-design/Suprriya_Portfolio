@@ -1,6 +1,6 @@
-# Sprint 4 - Part 4
+# Sprint 5 - Part 2
 
-Contents:
-- Hover lift animation
-- Ripple button effect
-- Generic fade-in animation
+Contents
+- SVG favicon
+- Social sharing preview template
+- Progressive Web App manifest
